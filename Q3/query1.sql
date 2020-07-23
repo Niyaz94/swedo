@@ -1,0 +1,1 @@
+SELECT `date` FROM `Awareness` WHERE `location`="anylocations"

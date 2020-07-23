@@ -1,0 +1,5 @@
+1- I use this [utf8mb4_general_ci] format for saving data
+
+2- I use [Year] data type for saving age becuase if we use number, 
+   for example 25 after one year this 25 will be 26 and every thing
+   miss up.
